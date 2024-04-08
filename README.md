@@ -9,3 +9,4 @@ https://github.com/sejongresearch/2019.Fall.AdvancedC/blob/master/Labs/Readme.md
 
 
 ### 2가지 작성해야하는경우 한가지 경우를 주석처리해 놓았습니다.
+### 장별로 수록 문제가 10번을 넘어가는 경우 순서대로 정렬하기 위해 10번부터 번호 앞에 a를 붙여 정렬하였습니다.
